@@ -1,9 +1,9 @@
 import api_bot
 import tkinter.scrolledtext as tks #creates a scrollable text window
 
+
 from datetime import datetime
 from tkinter import *
-
 
 def create_and_insert_user_frame(user_input):
   userFrame = Frame(chatWindow, bg="#d0ffff")
